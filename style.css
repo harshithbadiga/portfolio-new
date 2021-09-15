@@ -271,3 +271,16 @@ button{
 .blog{
     height: 70vh;
 }
+
+.error-list{
+    list-style: none;
+}
+
+.list-title{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.content-blog{
+    margin: 0 auto;
+    width: 60vw;
+}
