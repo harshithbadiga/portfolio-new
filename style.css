@@ -255,3 +255,13 @@ button{
 
 }
 
+.date{
+ display: flex;
+ font-weight: bolder;
+ justify-content: center;
+}
+
+.main-heading h3{
+    padding: 0.5rem;
+    margin: 0;
+}
