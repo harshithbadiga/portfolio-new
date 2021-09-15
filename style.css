@@ -142,7 +142,9 @@ footer{
     flex-direction: column;
     text-align: center;
     justify-content: center;
-    padding: 2rem;
+    padding: 1rem;
+
+
     background-color:#F037A5;
     color:#F8F8F8;
 
@@ -155,7 +157,7 @@ footer h5{
 }
 
 footer a{
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 .info{
@@ -264,4 +266,8 @@ button{
 .main-heading h3{
     padding: 0.5rem;
     margin: 0;
+}
+
+.blog{
+    height: 70vh;
 }
