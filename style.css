@@ -282,3 +282,7 @@ button{
     margin: 0 auto;
 
 }
+
+.errors-blog{
+    height: 60vh;
+}
